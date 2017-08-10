@@ -1,2 +1,2 @@
 # video-player-modeled-on-youtube
-video player using Youtube API using only React
+video player using Youtube API using only React, this a React App I created as I started to learn React, to help me understand how React uses Components which let you split the UI into independent, reusable pieces,  JSX a syntax extension to JavaScript, and State which is similar to props, (arbitrary input for components) but it is private and fully controlled by the component.
